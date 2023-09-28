@@ -14,3 +14,9 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
   <a href="https://www.linkedin.com/in/felipe-rodrigues-queiroz-564377171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div style="width: 200px;">
+<a href="https://github.com/felipethecreator/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipethecreator&langs_count=8" alt="Top Langs" />
+</a>
+</div>
