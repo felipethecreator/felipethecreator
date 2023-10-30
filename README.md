@@ -6,7 +6,7 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 
 ## 🧠 Knowledges
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,go,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,js,html,css,go,py)](https://skills.thijs.gg)
 
 ## 📊 My GitHub Stats
 ![Felipe Rodrigues Queiroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipethecreator&show_icons=true&theme=cobalt)
