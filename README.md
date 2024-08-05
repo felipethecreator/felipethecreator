@@ -10,6 +10,7 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
     <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000">
     <img align="center" margin-right="20" height="60" width="60" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000">
     <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+    <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
     <img align="center" height="40" width="40" margin-right="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
     <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
 </div>
