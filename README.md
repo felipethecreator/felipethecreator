@@ -2,7 +2,7 @@
  My name is Felipe and my nickname is "Felipethecreator"!
 
 ## 🚀 About me 
-I am a technology enthusiast and seek to evolve in the IT area. I'm currently learning and developing Java and Go skills and looking to be a future Back-end developer!
+I am a technology enthusiast and seek to evolve in the IT area. I'm currently learning and developing React and Go skills and looking to be a future full stack developer!
 
 ## 🧠 Knowledges
 
