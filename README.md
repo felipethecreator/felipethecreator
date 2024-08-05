@@ -7,7 +7,7 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 ## 🧠 Knowledges
 
    <div style="display: inline_block"><br>
-    <img align="center" margin-right="20"  height="40" width="40" src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000">
+    <img align="center" margin-right="20"  height="80" width="80" src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000">
     <img align="center" margin-right="20" height="40" width="40" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000">
     <img align="center" margin-right="20"  height="40" width="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
     <img align="center" height="40" width="40" margin-right="20" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
