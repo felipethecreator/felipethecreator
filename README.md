@@ -6,7 +6,13 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 
 ## 🧠 Knowledges
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,go,py)](https://skills.thijs.gg)
+   <div style="display: inline_block"><br>
+    <img align="center" margin-right="20"  height="40" width="40" src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000">
+    <img align="center" margin-right="20" height="40" width="40" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
+    <img align="center" margin-right="20"  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
+    <img align="center" height="40" width="40" margin-right="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" margin-right="20"  height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png">
+</div>
 
 ## 📊 My GitHub Stats
 ![Felipe Rodrigues Queiroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipethecreator&show_icons=true&theme=cobalt)
