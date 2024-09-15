@@ -6,12 +6,7 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 
 ## 🧠 Knowledges
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Linux](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=linux&logoColor=white)
-<div style="width: 200px;">
-<a href="https://github.com/felipethecreator/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipethecreator&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Linux](https://img.shields.io/badge/Linux-white.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 🗨 My Social Media
 
