@@ -7,7 +7,6 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 ## 🧠 Knowledges
 
    <div style="display: inline_block"><br>
-    ![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
     <img align="center" margin-right="20" height="60" width="60" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000">
     <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
     <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
