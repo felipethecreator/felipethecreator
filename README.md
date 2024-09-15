@@ -6,13 +6,7 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 
 ## 🧠 Knowledges
 
-   <div style="display: inline_block"><br>
-    <img align="center" margin-right="20" height="60" width="60" src="hhttps://img.icons8.com/?size=100&id=44442&format=png&color=000000">
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
-    <img align="center" height="40" width="50" margin-right="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
-    <img align="center" margin-right="20"  height="60" width="60" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
-</div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## 📊 My GitHub Stats
 <div style="width: 200px;">
