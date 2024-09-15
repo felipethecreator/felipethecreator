@@ -6,9 +6,7 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 
 ## 🧠 Knowledges
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-## 📊 My GitHub Stats
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Linux](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=linux&logoColor=white)
 <div style="width: 200px;">
 <a href="https://github.com/felipethecreator/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipethecreator&langs_count=8" alt="Top Langs" />
