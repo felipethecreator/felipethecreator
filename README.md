@@ -13,7 +13,6 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 ![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipethecreator&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipethecreator&layout=compact&theme=dark&hide_border=true)
 
-
 ## 🗨 My Social Media
 
 <div> 
