@@ -6,7 +6,7 @@ I am a technology enthusiast and seek to evolve in the IT area. I'm currently le
 
 ## 🧠 Knowledges
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Linux](https://img.shields.io/badge/Linux-pink.svg?style=for-the-badge&logo=linux&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Linux](https://img.shields.io/badge/Linux-#e5ece9.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🗨 My Social Media
 
