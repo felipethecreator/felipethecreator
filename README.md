@@ -11,8 +11,14 @@ I am a 19-year-old technology enthusiast striving to grow in the IT field 🚀. 
 
 ## 📈 My Github Stats
 
-![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipethecreator&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipethecreator&layout=compact&theme=dark&hide_border=true)
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=felipethecreator&show_icons=true&theme=transparent&count_private=true&hide=stars"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipethecreator&theme=transparent&size_weight=1&count_weight=1&layout=compact&langs_count=6&card_width=320" />
+</a>
+</div>
 
 ## 🗨 My Social Media
 
