@@ -3,7 +3,7 @@
  Computer Science student at the Centro Universitário de Brasília – Ceub.
 
 ## 🚀 About me 
-I am a 19-year-old technology enthusiast striving to grow in the IT field 🚀. I'm currently learning and improving my skills in React and Node.js, aiming to become a full-stack developer 💻! Currently, I'm working on 'Swanly,' a Twitter-inspired website. Check it out in my repositories!
+I am a 20-year-old technology enthusiast striving to grow in the IT field 🚀. I'm currently learning and improving my skills in React and Node.js, aiming to become a full-stack developer 💻! Currently, I'm working on 'Swanly,' a Twitter-inspired website. Check it out in my repositories!
 
 ## 🧠 Skills
 
