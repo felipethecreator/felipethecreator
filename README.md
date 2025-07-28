@@ -13,10 +13,10 @@ I am a 20-year-old technology enthusiast striving to grow in the IT field 🚀. 
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=felipethecreator&show_icons=true&theme=transparent&count_private=true&hide=stars"/>
+  <img height=175 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipethecreator&show_icons=true&theme=tokyonight&count_private=true&hide=stars"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipethecreator&theme=transparent&size_weight=1&count_weight=1&layout=compact&langs_count=6&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipethecreator&theme=tokyonight&size_weight=1&count_weight=1&layout=compact&langs_count=6&card_width=320" />
 </a>
 </div>
 
