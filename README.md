@@ -24,7 +24,8 @@ I am a 20-year-old technology enthusiast striving to grow in the IT field 🚀. 
 
 ## 🗨 My Social Media
 
-<div> 
+<div>
+ <a href = "https://felipethecreator.com" target="_blank"><img src="https://img.shields.io/badge/-Web Portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white"></a>
   <a href="https://instagram.com/felipersqz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/felipe-rodrigues-queiroz-564377171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:felipinhodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-felipinhodev@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
